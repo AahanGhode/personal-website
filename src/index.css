@@ -468,7 +468,7 @@
   }
 
   .testimonial-switch {
-    animation: testimonial-rotate 1.4s ease-out both;
+    animation: testimonial-rotate 0.8s ease-out both;
     transform-origin: center;
     backface-visibility: hidden;
   }
