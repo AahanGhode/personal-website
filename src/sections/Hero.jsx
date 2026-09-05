@@ -140,7 +140,7 @@ export const Hero = ({ isPageLoaded }) => {
                 />
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                I am an incoming Computer Engineering student at the University
+                I am a first year Computer Engineering student at the University
                 of Toronto and a Schulich Leader Scholar, currently looking for
                 embedded systems internships at the intersection of hardware
                 and software.
